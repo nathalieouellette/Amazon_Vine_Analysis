@@ -4,19 +4,20 @@ The purpose of this project is to determine how well products are being sold by 
 Explain the purpose of this analysis.
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions:
 
-
-There are 17481 Vine reviews and 8984400 non-Vine reviews. 
-
-There are 6522 vine reviews were 5 stars and 4818203 non-Vine reviews were 5 stars. 
-
-The percentage of Vine reviews were 5 stars is 37.3%. The percentage of non-Vine reviews were 5 stars is 53.6%. 
+ - 17481 Vine reviews 
+ - 8984400 non-Vine reviews. 
+ - 6522 vine reviews were 5 stars 
+ - 4818203 non-Vine reviews were 5 stars. 
+ - percentage of Vine reviews were 5 stars is 37.3% 
+ - percentage of non-Vine reviews were 5 stars is 53.6%
 
 ![Screen Shot 2022-12-20 at 12 08 28 PM](https://user-images.githubusercontent.com/110945895/208725080-5728e43f-17fd-4315-b27b-92b84080cee9.png)
+
 Figure 1. The calculations for the Vine reviewers.
 
 ![Screen Shot 2022-12-20 at 12 09 49 PM](https://user-images.githubusercontent.com/110945895/208725366-67faed0e-39d3-4a06-85bb-bd27de2deba1.png)
+
 Figure 2. The calculations for the non-Vine reviewers.
 
 ## Summary 
